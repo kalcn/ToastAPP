@@ -87,7 +87,7 @@
             android:textSize="24sp" />
 
         <EditText
-            android:id="@+id/editText3"
+            android:id="@+id/edtMyans"
             android:layout_width="102dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -112,7 +112,7 @@
         android:textSize="24sp" />
 
     <TextView
-        android:id="@+id/textView8"
+        android:id="@+id/tevAns"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
@@ -121,7 +121,7 @@
         android:textSize="24sp" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/tevMyAns"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
